@@ -1,0 +1,19 @@
+{
+    "metadata": [
+        {
+            " Reference ": " https://doi.org/10.1021/je60077a008 ",
+            " Title ": " Solubility and diffusivity of gases in aqueous solutions of amines ",
+            " Component_1": " Ethylene ",
+            " Component_2": " 1-Amino-2-Propanol ",
+            " Component_3": " Water "
+        }
+    ],
+    "solubility": [
+        {
+            " Temperature ": 298.15,
+            " Temperature_Unit": " K ",
+            " Pressure ": 101.3,
+            " Pressure_Unit ": " kPa "
+        }
+    ]
+}
